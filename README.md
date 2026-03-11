@@ -1,7 +1,4 @@
 <p align="center">
-  <a href="">
-    <img src="" alt="Logo" width="80" height="80">
-  </a>
 </p>
 <h3 align="center">Nemesis</h3>
 <h4 align="center">New Opponent Who This?</h4>
